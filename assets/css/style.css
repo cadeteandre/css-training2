@@ -1,0 +1,11 @@
+nav {
+    background-color: darkgray;
+}
+
+li {
+    list-style-type: none;
+}
+
+a, span {
+    color: darkorange;
+}
